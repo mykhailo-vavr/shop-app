@@ -1,0 +1,9 @@
+.select {
+  border: 1px solid #61dafb;
+  border-radius: 5px;
+  padding: 5px;
+
+  &:focus {
+    outline: none;
+  }
+}
