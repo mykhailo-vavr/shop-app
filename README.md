@@ -1,1 +1,1 @@
-### Shop app written on vanilla JS
+### Shop app written on React
